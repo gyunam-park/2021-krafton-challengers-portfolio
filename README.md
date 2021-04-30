@@ -37,4 +37,14 @@
 [개발 일지](DAY_1.md)  
 [유튜브 스트리밍](https://youtu.be/UfgRIgjaIwA)  
 
+## 2일차  
+### 목표 달성률
+● Raylib로 프로토타입 구현하기   
+> 0%
+
+### 링크
+[개발 일지](DAY_2.md)  
+[유튜브 스트리밍](https://youtu.be/0yXdPeI5npY)  
+[유튜브 스트리밍](https://youtu.be/rGtt-c5HqfE)  
+
 
